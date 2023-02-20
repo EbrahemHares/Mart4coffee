@@ -1,0 +1,16 @@
+{
+  "name": "coffee-mart",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "homepage": "https://EbrahemHares.github.io/Mart4coffee",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
